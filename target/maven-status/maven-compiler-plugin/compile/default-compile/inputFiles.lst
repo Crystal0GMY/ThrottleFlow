@@ -1,0 +1,9 @@
+/Users/meiyiguang/Desktop/Spring_2025/6650/Assignment3/src/main/java/ConsumerWithRedis/ConsumerWithRedis.java
+/Users/meiyiguang/Desktop/Spring_2025/6650/Assignment3/src/main/java/Producer/MessageQueueProducer.java
+/Users/meiyiguang/Desktop/Spring_2025/6650/Assignment3/src/main/java/Servlet/SkiersServletWithRabbitMQ.java
+/Users/meiyiguang/Desktop/Spring_2025/6650/Assignment3/src/main/java/client1/EventGeneratorThread.java
+/Users/meiyiguang/Desktop/Spring_2025/6650/Assignment3/src/main/java/client1/HTTPClientThread.java
+/Users/meiyiguang/Desktop/Spring_2025/6650/Assignment3/src/main/java/client1/LatencyAnalyzer.java
+/Users/meiyiguang/Desktop/Spring_2025/6650/Assignment3/src/main/java/client1/MultithreadClient.java
+/Users/meiyiguang/Desktop/Spring_2025/6650/Assignment3/src/main/java/client1/SkierLiftRideEvent.java
+/Users/meiyiguang/Desktop/Spring_2025/6650/Assignment3/src/main/java/client1/SkierLiftRideEventGenerator.java
